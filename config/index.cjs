@@ -48,6 +48,7 @@ const USER_CONFIG = {
       ],
     },
     {
+      name:'随康博',
       id:'o63hS6RtBUWhhvdm1iic3iNUZCgo',
       useTemplateId:'5jaNha7vMdCg8ivI_tSTWESk7kclZTlW9yGvaQWVrXU',
     }
