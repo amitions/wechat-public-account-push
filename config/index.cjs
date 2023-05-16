@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx0315bf6115d7596e',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '7ec107027c0a163a079e57ef043180d4',
+  APP_SECRET: 'ea18081b1b08b9a47c07945c4926d00a',
 
   PROVINCE: '河南',
   CITY: '南阳',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '随大大',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o63hS6RtBUWhhvdm1iic3iNUZCgo',
+      id: 'o63hS6dKD0rAGnm9AiM4o3GIuMlU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'to7qIASoBIl4G_DOq_mRb3D90u80sjManvJeF6ZIXmc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'gh_49a0268a3968',
     }
   ],
 
