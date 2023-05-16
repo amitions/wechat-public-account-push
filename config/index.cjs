@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'ea18081b1b08b9a47c07945c4926d00a',
 
   PROVINCE: '河南',
-  CITY: '郑州',
+  CITY: '南阳',
 
   USERS: [
     {
@@ -47,6 +47,10 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
+    {
+      id:'o63hS6RtBUWhhvdm1iic3iNUZCgo',
+      useTemplateId:'5jaNha7vMdCg8ivI_tSTWESk7kclZTlW9yGvaQWVrXU',
+    }
   ],
 
 
@@ -57,7 +61,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'wx0315bf6115d7596e',
+      id: 'gh_49a0268a3968',
     }
   ],
 
