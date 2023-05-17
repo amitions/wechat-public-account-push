@@ -37,7 +37,9 @@ const USER_CONFIG = {
     {
       name:'小欣',
       id:'o63hS6QK5-1bY81kHxnbxNNfjvrY',
-      useTemplateId:'ES0oyHYbwbmop8ZSKocL48yClvTHVoMtvTQDH-qJIvk'
+      useTemplateId:'ES0oyHYbwbmop8ZSKocL48yClvTHVoMtvTQDH-qJIvk',
+      province:'山西',
+      city:'太原',
     }
   ],
 
