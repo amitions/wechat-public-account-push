@@ -23,16 +23,21 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o63hS6dKD0rAGnm9AiM4o3GIuMlU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'A3WtUzKm7LDhWD1DsGkzTA_1fpKXF47if8I6uqWNBY0',
+      useTemplateId: 'ziDN6Z7AW3mTuZyHUPUeYVZQnD84CINwonZR7alonqA',
       province:'河南',
       city:'郑州',
     },
     {
       name:'随康博',
       id:'o63hS6RtBUWhhvdm1iic3iNUZCgo',
-      useTemplateId:'ES0oyHYbwbmop8ZSKocL48yClvTHVoMtvTQDH-qJIvk',
+      useTemplateId:'':'ES0oyHYbwbmop8ZSKocL48yClvTHVoMtvTQDH-qJIvk',
       province:'河南',
       city:'南阳',
+    },
+    {
+      name:'小欣',
+      id:'o63hS6QK5-1bY81kHxnbxNNfjvrY',
+      useTemplateId:'	ES0oyHYbwbmop8ZSKocL48yClvTHVoMtvTQDH-qJIvk'
     }
   ],
 
